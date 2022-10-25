@@ -72,4 +72,4 @@ while current_incorrect_guesses < num_of_incorrect_guesses and False in answer_g
 if current_incorrect_guesses < num_of_incorrect_guesses:
     print("Congratulations, you won!")
 else:
-        print(f"Sorry, you lost. The answer was {answer}")
+    print(f"Sorry, you lost. The answer was {answer}")
